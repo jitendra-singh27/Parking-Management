@@ -1,0 +1,45 @@
+#reg{
+    display: flex;
+    align-items: center;
+    height: 600px;
+}
+
+h2{
+    color: rgb(253, 72, 72);
+    text-align: center;
+}
+
+#reg{
+    font-family: 'Poppins', sans-serif;
+}
+#index{
+
+        font-family: 'Poppins', sans-serif;
+    
+    
+}
+
+#ind{
+    display: flex;
+    align-items: center;
+    height: 600px;
+    background: url('/media/1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+#header{
+    background: rgb(59, 161, 245);
+    padding-bottom: 20px;
+    
+    
+}
+
+#data{
+    display: flex;
+    align-items: center;
+    
+}
+
